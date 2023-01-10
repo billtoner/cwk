@@ -19,28 +19,34 @@
 - Okay today we're going to be working on the speed project.  Let's see some program examples of speed in action
 
   - Fish Game: https://scratch.mit.edu/projects/99918963/
-
   - Car Game: https://scratch.mit.edu/projects/99921831/
 
 ## Review Variables (1-2 min)
 
 - Who knows what a variable is?  
+
   - What are some example names of variables?
   - What might be a benefit of using a variable? 
 
 ## Review Speed Variables (3-5 min)
 
 - Who knows what speed is?  
+
   - How would you define it? 
   - What types of objects are associated with speed, fast or slow? 
 
-- Speed Example: https://scratch.mit.edu/projects/99906892/editor/
+- Speed Example: https://scratch.mit.edu/projects/99906892
 
 - Why does this work?  (Because we changed the code to do more move_steps)
 
 - How can we use variables with speed? 
-  - https://scratch.mit.edu/projects/99906892/
-  - (Create a variable for speed.  Then instead of changing the code we can change the variable)
 
-- How come using variables is better than hard coded values?  
+  - https://scratch.mit.edu/projects/99906892/editor
+
+- Hard coded speed
+
+  - https://scratch.mit.edu/projects/785672366/editor
+
+- How come using a speed variable better than using a hard coded value?  
+
   - Because what if you had 100 blocks where move_steps was coded in? Now you have to make 10 changes. If you use a variable then you only have to make one change. 
