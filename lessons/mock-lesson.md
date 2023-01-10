@@ -50,3 +50,6 @@
 - How come using a speed variable better than using a hard coded value?  
 
   - Because what if you had 100 blocks where move_steps was coded in? Now you have to make 10 changes. If you use a variable then you only have to make one change. 
+
+- Questions on speed?
+
