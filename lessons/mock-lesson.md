@@ -24,13 +24,15 @@
 
 ## Review Variables (1-2 min)
 
-- Who knows what a variable is?  (A variable is something that stores a value. We can set that value, 
-  or change that value, or even use that value somewhere else)
+- Who knows what a variable is?  
+  - What are some example names of variables?
+  - What might be a benefit of using a variable? 
 
 ## Review Speed Variables (3-5 min)
 
-- Who knows what speed is?  How would you define it? 
-  (Go around the class)
+- Who knows what speed is?  
+  - How would you define it? 
+  - What types of objects are associated with speed, fast or slow? 
 
 - Speed Example: https://scratch.mit.edu/projects/99906892/editor/
 
