@@ -56,6 +56,7 @@
 - Hard coded speed
 
   - https://scratch.mit.edu/projects/785672366/editor
+    - Is hard coded speed a good practice (Hint: no)
 
 - How come using a speed variable better than using a hard coded value?  
 
