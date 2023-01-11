@@ -5,8 +5,9 @@
 
 - Okay class.  Good afternoon.  Is everyone here for the Coding with Kids class? 
 
-- My name is Mr. Toner and you can call me Mr. Toner.  
 - It's nice to meet you all and I'm excited for us to dig into some coding exercises.  Please be patient with me as I learn all of your names. 
+
+- My name is Mr. Toner and you can call me Mr. Toner.  
 
 - As we go through the material today please raise your hand if you have a question and I'll get to you as soon as I can. I may ask you to please hold your question for a minute until we get to a better stopping point. 
 
