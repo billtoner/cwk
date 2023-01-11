@@ -19,10 +19,10 @@
 
 - Okay today we're going to be working on the speed project.  Let's see some program examples of speed in action
 
+  - Our goal today is to learn how to create small programs that can change the speed of an object 
   - Fish Game: https://scratch.mit.edu/projects/99918963/
   - Car Game: https://scratch.mit.edu/projects/99921831/
 
-  - Our goal today is to learn how to create small programs that can change the speed of an object 
 
 ## Review Variables (1-2 min)
 
