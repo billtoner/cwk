@@ -30,6 +30,13 @@
 
   - What are some example names of variables?
   - What might be a benefit of using a variable? 
+  - What can I name a variable?
+    - Anything I want
+  - What <em>should</em> I name a variable?
+    - Something that sounds logical or makes sense when you read it back to yourself 
+    - Why?
+      - Think about the next person who has to maintain the program 
+      - Think about the next time you come back to the program a year from now.  Are you going to remember what x is? 
 
 ## Review Speed Variables (3-5 min)
 
@@ -54,5 +61,5 @@
 
   - Because what if you had 100 blocks where move_steps was coded in? Now you have to make 10 changes. If you use a variable then you only have to make one change. 
 
-- Questions on speed?
+- Questions on speed or variables variables?
 
