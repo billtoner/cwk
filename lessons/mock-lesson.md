@@ -17,12 +17,12 @@
 
 ## Concept Introduction/Motivation (2-3 min)
 
-- Okay today we're going to be working on the speed project.  Let's see some program examples of speed in action
+- Okay today we're going to be working on the speed project. 
 
-  - Our goal today is to learn how to create small programs that can change the speed of an object 
-  - Fish Game: https://scratch.mit.edu/projects/99918963/
-  - Car Game: https://scratch.mit.edu/projects/99921831/
-
+  - Our goal is to learn about changing speed in a program 
+  - Let's see some program examples of speed in action
+    - Fish Game: https://scratch.mit.edu/projects/99918963/
+    - Car Game: https://scratch.mit.edu/projects/99921831/
 
 ## Review Variables (1-2 min)
 
