@@ -17,7 +17,7 @@
 
 ## Concept Introduction/Motivation (2-3 min)
 
-- Okay today we're going to be working on the speed project. 
+### Speed Project
 
   - Our goal is to learn about changing speed in a program 
   - Let's see some program examples of speed in action
