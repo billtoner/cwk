@@ -27,7 +27,7 @@
 - Who knows what a variable is?  
 
   - What are some example names of variables?
-  - What can I name a variable?
+  - What are the rules about naming a variable?  What am I allowed to name it?
     - Anything I want
   - What <em>should</em> I name a variable?
     - Something that sounds logical or makes sense when you read it back to yourself 
