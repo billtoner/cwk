@@ -11,7 +11,7 @@
 
 - Also please remember the behavioral guidelines for the class so that we can move along quickly.  I know you're excited to get to the good stuff and so am I.  We are going to move as fast as we can as a group but please do not be afraid to ask questions.  I like questions.  I really like it when students are curious. 
 
-- Let's get started. 
+- Any questions?  Okay, let's get started. 
 
 ## Concept Introduction/Motivation (2-3 min)
 
