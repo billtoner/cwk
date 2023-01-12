@@ -18,7 +18,7 @@
 ### Speed Project
 
   - Our goal is to learn about changing the speed of an object in a Scratch program 
-  - Let's see some program examples of speed in action
+  - Let's see some program examples of speed in action. (Pay attention to the speed of the object).
     - Fish Game: https://scratch.mit.edu/projects/99918963/
     - Car Game: https://scratch.mit.edu/projects/99921831/
 
