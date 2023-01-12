@@ -27,7 +27,6 @@
 - Who knows what a variable is?  
 
   - What are some example names of variables?
-  - What might be a benefit of using a variable? 
   - What can I name a variable?
     - Anything I want
   - What <em>should</em> I name a variable?
@@ -35,6 +34,7 @@
     - Why?
       - Think about the next person who has to maintain the program 
       - Think about the next time you come back to the program a year from now.  Are you going to remember what x is? 
+  - What might be a benefit of using a variable? 
 
 ## Review Speed Variables (3-5 min)
 
