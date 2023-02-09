@@ -16,7 +16,7 @@ to see if there's something that matches up pretty well.
     I want to go to the Blazer game but not sure if I can afford it, so I check the ticket prices. 
     If tickets are less than $50, then I will buy one 
 
-    Conditionals are for specifying doing someting but only when a certain condition exists.  
+    Conditionals are for specifying doing something but only when a certain condition exists.  
     Like it's raining outside, or if the price is right, or if the weather is warm enough. 
     Otherwise, I'm not going to do those things.  
 
