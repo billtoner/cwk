@@ -17,3 +17,6 @@ This page discusses Motion and Events
     When someone pushes and elevator button go up or down
     When you click on "Save" your file
     When you click on "Submit" your order to Amazon
+
+## Motion and Events in Scratch
+    Who can find examples of motion and events in scratch?
