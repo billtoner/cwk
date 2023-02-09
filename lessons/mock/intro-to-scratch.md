@@ -3,9 +3,12 @@
 
 ## Introduction
 
+Introduce ourselves
+
 [Introduction](../common/intro.md)
 
-## Concept Motion and Events
+## Concepts 
+Discussion of the various concepts 
 
 [Motion And Events](motion-and-events.md)  
 [Loops](loops.md)  
@@ -13,6 +16,8 @@
 [Variables](variables.md)  
 
 ## Planning 
+
+Describing this project in english language terms before coding
 
 [Planning](planning.md)
 
