@@ -14,6 +14,9 @@ Set speed to its initial value (Variables)
 Loop (Control)
   point towards mouse pointer (Motion)
   move some number of steps (Motion)
+  If sprite catches pointer Then
+    Have the sprite say Hello
+    Wait for some number of seconds
 End Loop
 ```
 
@@ -44,4 +47,7 @@ End Loop
 <br>
 
 * Okay, so inside a loop, point the sprite at the mouse and take some steps over and over and over 
-* Sounds good.  Let's write it up.   
+* Sounds good.  What should I do if sprite catches the pointer?  
+
+
+Looks like a plan, let's write it up.   
