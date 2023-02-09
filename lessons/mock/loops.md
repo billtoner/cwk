@@ -16,6 +16,6 @@
         Repeat Until some condition exists - like I enter "Y" 
         Repeat exactly 10 times
       
-## Loops Scratch
+## Loops in Scratch
     Who can find the different Loop types in Scratch?
     Can you show us where they are and what they are? 
