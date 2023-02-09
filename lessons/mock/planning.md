@@ -1,5 +1,5 @@
 # Mock Lesson Planning
-This page documents a Mock Lesson for the 
+This page documents a Mock Lesson for Intro to Scratch 
 
 ## Target Pseudo Code
 
