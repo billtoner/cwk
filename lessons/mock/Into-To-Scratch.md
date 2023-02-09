@@ -10,7 +10,6 @@ Introduce ourselves
 
 ## Concepts 
 
-Let's quickly review a program we'll be working with: [Flying Cat](https://scratch.mit.edu/projects/402079160/)
 
 ### Discussion of the various concepts 
 
@@ -20,6 +19,8 @@ Let's quickly review a program we'll be working with: [Flying Cat](https://scrat
 [Variables](variables.md)  
 
 ## Planning 
+
+Let's quickly review a program we'll be working with: [Flying Cat](https://scratch.mit.edu/projects/402079160/)
 
 Describing this project in english language terms before coding
 
