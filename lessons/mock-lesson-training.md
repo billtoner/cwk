@@ -16,6 +16,10 @@
 
 [Planning](planning.md)
 
+## Independent Work
+
+[Independent Work](independent.md)
+
 ## Links
 
 - Flying Cat (Basic)
