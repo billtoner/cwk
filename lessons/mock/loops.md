@@ -2,10 +2,10 @@
 
 ## What's a loop? 
 
-   Race track (Cars, runners)
-   A Ferris Wheel
-   A Merry Go Round 
-   What's a loop in software programming?
+    Race track (Cars, runners)
+    A Ferris Wheel
+    A Merry Go Round 
+    What's a loop in software programming?
       Something we want to do repeatedly?
       Something we want to do more than once? 
         What if I want to do something zero times?
@@ -17,5 +17,5 @@
         Repeat exactly 10 times
       
 ## Loops Scratch
-   Who can find the different Loop types in Scratch?
-   Can you show us where they are and what they are? 
+    Who can find the different Loop types in Scratch?
+    Can you show us where they are and what they are? 
