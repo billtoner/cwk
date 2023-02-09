@@ -3,7 +3,7 @@
 
 ## Introduction
 
-[Introduction](intro.md)
+[Introduction](../common/intro.md)
 
 ## Concept Motion and Events
 
