@@ -1,6 +1,9 @@
 # Motion and Events 
 This page discusses Motion and Events
 
+As we talk about these, we can explore the code categories in Scratch 
+to see if there's something that matches up pretty well. 
+
 ## What is motion?
     Movement in steps 
     Movement in mph (car)

@@ -1,5 +1,8 @@
 # Loops
 
+As we talk about these, we can explore the code categories in Scratch 
+to see if there's something that matches up pretty well. 
+
 ## What's a loop? 
 
     Race track (Cars, runners)
