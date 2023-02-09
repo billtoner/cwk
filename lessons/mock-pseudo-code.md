@@ -20,9 +20,9 @@ End Loop
 ## Questions to ask in order to get there: 
 
 <li>
-What's the first thing we have to do?
-Do we have to trigger on anything?
-What gets this thing started?
+- What's the first thing we have to do?
+- Do we have to trigger on anything?
+- What gets this thing started?
 </li>
  
 <li>
