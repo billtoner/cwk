@@ -17,7 +17,7 @@ to see if there's something that matches up pretty well.
      owner_address
      owner_zip_code
      
-### Some not great variable names
+### Some not so great variable names
      my_variable
      x
      y
@@ -27,9 +27,9 @@ to see if there's something that matches up pretty well.
      my_item1
      my_item2
      
-   Some illegal names
-     1x
-     2y
+### Some illegal names
+     1x  
+     2y  
        
 ## Variables in Scratch
 
