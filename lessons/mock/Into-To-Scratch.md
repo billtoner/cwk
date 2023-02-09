@@ -10,9 +10,9 @@ Introduce ourselves
 
 ## Concepts 
 
-[Flying Cat](https://scratch.mit.edu/projects/402079160/)
+Let's quickly review a program we'll be working with: [Flying Cat](https://scratch.mit.edu/projects/402079160/)
 
-Discussion of the various concepts 
+### Discussion of the various concepts 
 
 [Motion And Events](motion-and-events.md)  
 [Loops](loops.md)  
