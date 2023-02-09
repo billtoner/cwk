@@ -1,4 +1,4 @@
-# Mock Lesson Pseudo Code
+# Mock Lesson Planning
 This page documents a Mock Lesson for the 
 
 ## Target Pseudo Code
