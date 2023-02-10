@@ -1,5 +1,5 @@
 
-## Introduction (1 min)
+## Introduction
 
 - Okay class.  Good afternoon.  Is everyone here for the Coding with Kids class? 
 
