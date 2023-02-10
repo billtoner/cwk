@@ -17,7 +17,7 @@ to see if there's something that matches up pretty well.
     When I click on the Green Flag
     When I click on the Space bar
     When I click on the escape key 
-    When someone pushes and elevator button go up or down
+    When someone pushes an elevator button to go up or down
     When you click on "Save" your file
     When you click on "Submit" your order to Amazon
 
