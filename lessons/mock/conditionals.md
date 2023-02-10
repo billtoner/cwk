@@ -10,8 +10,9 @@ to see if there's something that matches up pretty well.
 
     The Mariners have a stadium where the roof can close up. Why?
     Are they going to close it up if it's nice and sunny outside?
-    So, If it's raining, then close the stadium roof 
+    If it's raining, then close the stadium roof 
     Or better yet, If there's a home game today AND If it's raining, then close the stadium roof 
+    Or even better, If there's a home gamd today AND it's rained > 1/2" then close the stadium roof 
 
     I want to go to the Blazer game but not sure if I can afford it, so I check the ticket prices. 
     If tickets are less than $50, then I will buy one 
